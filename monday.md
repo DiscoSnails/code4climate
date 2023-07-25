@@ -20,7 +20,8 @@ It is recommended that you try using markdown yourself, too. At least for this p
 To get you started, [here's a cheatsheet on Markdown (md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-## Notes for the Day
+### Notes For The Day
+
  - Typing things here to make it look like i am doing something.
 
  - Did some more things

@@ -44,3 +44,10 @@ This file and the README file and many other files in this repository will be wr
 It is recommended that you try using markdown yourself, too. At least for this program. And see if you like it.
 
 To get you started, [here's a cheatsheet on Markdown (md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+### Notes For The Day
+
+ - We did more indepth coding. For the last 15 min, I was uninterested. 
+ - I did find some of these things hard, but I used the python documentation to help myself out. 
+ - Finding the Factorial and weather a number is a prime number were the two that I found harder then the others.
+ - 
